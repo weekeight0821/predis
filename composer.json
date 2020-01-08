@@ -1,0 +1,12 @@
+{
+  "description": "xiaobu",
+  "name": "yanwei",
+  "type": "project",
+  "license": "",
+  "require": {
+    "predis/predis" : "1.1.*"
+  },
+  "autoload": {
+    "psr-4": {"Acme\\": "src/"}
+  }
+}
